@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505233806HHD6EG</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505233806789V3T</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EL MARAVILLOSO MUNDO ANIMAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>5 AÑOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Ruiz Blanco</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Aprendemos sobre los animales salvajes en el aula de 5 años</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778016615722</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mot56oye-1f26rs9gt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oye-1f26rs9gt</odePageId>
+      <odeBlockId>block-1777894543487-tyd5same7</odeBlockId>
+      <blockName>Proyecto: &quot;El maravilloso mundo animal&quot;</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oye-1f26rs9gt</odePageId>
+          <odeBlockId>block-1777894543487-tyd5same7</odeBlockId>
+          <odeIdeviceId>idevice-1777894543486-7k82uvvjp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El presente recurso consiste en un material educativo digital elaborado con eXeLearning para trabajar los <strong>animales salvajes</strong> en el tercer nivel del segundo ciclo de Educación Infantil (<strong>5 años</strong>). Se presenta como una Situación de Aprendizaje que sirve de guía para el profesorado, el alumnado y sus familias durante todo el desarrollo del proyecto.</p>
+<p>Este recurso tiene en cuenta las características propias de los niños y niñas de esta etapa, que todavía tienen dificultades para utilizar de forma autónoma este tipo de materiales debido a su nivel inicial de lectura y competencia digital. Por ello, se plantea como un material guiado, en el que el docente tiene un papel fundamental como acompañante y mediador en el proceso de aprendizaje.</p>
+<p>El eXeLearning se organiza en varios apartados bien diferenciados. Por un lado, incluye contenidos dirigidos al profesorado, como la descripción, la guía didáctica o los criterios e instrumentos de evaluación. Por otro lado, cuenta con apartados pensados para el alumnado, con información adaptada sobre protección de datos y la secuencia de actividades que deberán realizar para conseguirlo.</p>
+<p>En definitiva, se trata de un recurso claro y bien organizado que facilita su uso en el aula y permite llevar a cabo el proyecto de manera guiada, adaptada a las características del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777894543486-7k82uvvjp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El presente recurso consiste en un material educativo digital elaborado con eXeLearning para trabajar los <strong>animales salvajes</strong> en el tercer nivel del segundo ciclo de Educación Infantil (<strong>5 años</strong>). Se presenta como una Situación de Aprendizaje que sirve de guía para el profesorado, el alumnado y sus familias durante todo el desarrollo del proyecto.</p>\n<p>Este recurso tiene en cuenta las características propias de los niños y niñas de esta etapa, que todavía tienen dificultades para utilizar de forma autónoma este tipo de materiales debido a su nivel inicial de lectura y competencia digital. Por ello, se plantea como un material guiado, en el que el docente tiene un papel fundamental como acompañante y mediador en el proceso de aprendizaje.</p>\n<p>El eXeLearning se organiza en varios apartados bien diferenciados. Por un lado, incluye contenidos dirigidos al profesorado, como la descripción, la guía didáctica o los criterios e instrumentos de evaluación. Por otro lado, cuenta con apartados pensados para el alumnado, con información adaptada sobre protección de datos y la secuencia de actividades que deberán realizar para conseguirlo.</p>\n<p>En definitiva, se trata de un recurso claro y bien organizado que facilita su uso en el aula y permite llevar a cabo el proyecto de manera guiada, adaptada a las características del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyi-19pm8meg1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyi-19pm8meg1</odePageId>
+      <odeBlockId>block-1777649999506-f4qrlqjcd</odeBlockId>
+      <blockName>&quot;Comenzamos nuestro proyecto&quot;</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyi-19pm8meg1</odePageId>
+          <odeBlockId>block-1777649999506-f4qrlqjcd</odeBlockId>
+          <odeIdeviceId>idevice-1777649999504-ntmnjzjgs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: center;"><strong>“EL MARAVILLOSO MUNDO ANIMAL”</strong></h2>
+<p><strong>Centro de interés:</strong> los animales salvajes.</p>
+<p><strong>Nivel:</strong> 5 años.</p>
+<p><strong>Temporalización:</strong> 2 meses (8 semanas).</p>
+<p><strong>Materias implicadas</strong>: las 3 áreas de educación infantil (globalizada).</p>
+<ul>
+<li>Crecimiento en Armonía</li>
+<li>Descubrimiento y  Exploración del Entorno</li>
+<li>Comunicación y Representación de la Realidad</li>
+</ul>
+<p><strong>Idioma</strong>: español.</p>
+<p><strong>Justificación</strong>: trabajar los animales salvajes en la etapa de educación infantil siempre es un acierto, pues resulta muy motivador para los niños y niñas en esta edad. Partiendo de su motivación y sus intereses sobre los animales, el alumnado podrá conocer mejor el entorno natural y aprenderán a respetar los seres vivos que habitan en ella. Cabe destacar que, a diferencia de los animales domésticos, los animales salvajes no se encuentran en nuestro contexto más cercano ni forman parte de nuestro día a día, por lo que es la oportunidad perfecta para recurrir a diferentes recursos digitales y actividades interactivas que nos permitan observarlos, conocer sus características y acercarse a su hábitat.</p>
+<p><strong>Descripción general del proyecto</strong>: a lo largo de la situación de aprendizaje, los niños y niñas descubrirán qué son los animales salvajes (qué diferencia tienen con los domésticos), algunas de sus características, dónde viven, cómo se desplazan… Además, esto les permitirá ampliar su vocabulario, desarrollar el interés por los seres vivos y respetar la naturaleza.</p>
+<p>Durante las diferentes actividades del proyecto, se combinará el uso de tabletas con actividades en la Pantalla Digital Interactiva, organizando su utilización de forma simultánea para asegurar la participación activa de todo el alumnado y evitar posibles distracciones, teniendo en cuenta la temprana edad del alumnado. </p>
+<p><strong>Enlace tarea 2.1:</strong> <a href="https://docs.google.com/document/d/1SdO2o76NAUdUt21UGJGSy8WO3xViH_A6DtOQ5t32ggI/edit?usp=sharing">https://docs.google.com/document/d/1SdO2o76NAUdUt21UGJGSy8WO3xViH_A6DtOQ5t32ggI/edit?usp=sharing</a> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777649999504-ntmnjzjgs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: center;\"><strong>“EL MARAVILLOSO MUNDO ANIMAL”</strong></h2>\n<p><strong>Centro de interés:</strong> los animales salvajes.</p>\n<p><strong>Nivel:</strong> 5 años.</p>\n<p><strong>Temporalización:</strong> 2 meses (8 semanas).</p>\n<p><strong>Materias implicadas</strong>: las 3 áreas de educación infantil (globalizada).</p>\n<ul>\n<li>Crecimiento en Armonía</li>\n<li>Descubrimiento y  Exploración del Entorno</li>\n<li>Comunicación y Representación de la Realidad</li>\n</ul>\n<p><strong>Idioma</strong>: español.</p>\n<p><strong>Justificación</strong>: trabajar los animales salvajes en la etapa de educación infantil siempre es un acierto, pues resulta muy motivador para los niños y niñas en esta edad. Partiendo de su motivación y sus intereses sobre los animales, el alumnado podrá conocer mejor el entorno natural y aprenderán a respetar los seres vivos que habitan en ella. Cabe destacar que, a diferencia de los animales domésticos, los animales salvajes no se encuentran en nuestro contexto más cercano ni forman parte de nuestro día a día, por lo que es la oportunidad perfecta para recurrir a diferentes recursos digitales y actividades interactivas que nos permitan observarlos, conocer sus características y acercarse a su hábitat.</p>\n<p><strong>Descripción general del proyecto</strong>: a lo largo de la situación de aprendizaje, los niños y niñas descubrirán qué son los animales salvajes (qué diferencia tienen con los domésticos), algunas de sus características, dónde viven, cómo se desplazan… Además, esto les permitirá ampliar su vocabulario, desarrollar el interés por los seres vivos y respetar la naturaleza.</p>\n<p>Durante las diferentes actividades del proyecto, se combinará el uso de tabletas con actividades en la Pantalla Digital Interactiva, organizando su utilización de forma simultánea para asegurar la participación activa de todo el alumnado y evitar posibles distracciones, teniendo en cuenta la temprana edad del alumnado. </p>\n<p><strong>Enlace tarea 2.1:</strong> <a href=\"https://docs.google.com/document/d/1SdO2o76NAUdUt21UGJGSy8WO3xViH_A6DtOQ5t32ggI/edit?usp=sharing\">https://docs.google.com/document/d/1SdO2o76NAUdUt21UGJGSy8WO3xViH_A6DtOQ5t32ggI/edit?usp=sharing</a> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyj-q7j7u5erd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyj-q7j7u5erd</odePageId>
+      <odeBlockId>block-1777648948570-3tednu7le</odeBlockId>
+      <blockName>&quot;Cuidamos nuestros secretos del ordenador&quot;</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyj-q7j7u5erd</odePageId>
+          <odeBlockId>block-1777648948570-3tednu7le</odeBlockId>
+          <odeIdeviceId>idevice-1777648948569-v7cwcfi15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Una sesión">Una sesión</span></dt><dd>45 min.</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd></dd></div></dl><p>En asamblea, presentamos al alumnado la siguiente infografía sobre protección de datos, proyectada en la pantalla digital. Realizamos una lectura guiada, deteniéndonos en ideas clave como el cuidado de la información personal, el uso responsable de contraseñas o la importancia de pedir ayuda a un adulto.</p>
+<p>A lo largo de la lectura, se plantean preguntas para favorecer la comprensión y el diálogo, como: “<em>¿Qué cosas no debemos contar en internet?</em>”, “¿<em>Por qué son importantes las contraseñas?</em>” o “<em>¿Qué hacemos si queremos usar algo de otra persona?</em>”.</p>
+<p>De este modo, se conciencia al alumnado sobre el uso seguro y responsable de los recursos digitales que se emplearán posteriormente en las distintas actividades de la Situación de Aprendizaje.</p>
+<figure class="exe-figure position-center" style="width: 500px;">
+<div class="figcaption header"><strong>Tarea 2.3</strong></div>
+<img src="{{context_path}}/content/resources/Infografía protección de datos_page-0001.jpg" width="500" height="1250" alt="Protección de datos" />
+<figcaption class="figcaption"><span class="author">Elena Ruiz Blanco</span>. <a href="https://canva.link/h298sxoa33x7294" class="title" target="_blank" rel="noopener"><em>https://canva.link/h298sxoa33x7294</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777648948569-v7cwcfi15","textInfoDurationInput":"45 min.","textInfoDurationTextInput":"Una sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Una sesión\">Una sesión</span></dt><dd>45 min.</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd></dd></div></dl><p>En asamblea, presentamos al alumnado la siguiente infografía sobre protección de datos, proyectada en la pantalla digital. Realizamos una lectura guiada, deteniéndonos en ideas clave como el cuidado de la información personal, el uso responsable de contraseñas o la importancia de pedir ayuda a un adulto.</p>\n<p>A lo largo de la lectura, se plantean preguntas para favorecer la comprensión y el diálogo, como: “<em>¿Qué cosas no debemos contar en internet?</em>”, “¿<em>Por qué son importantes las contraseñas?</em>” o “<em>¿Qué hacemos si queremos usar algo de otra persona?</em>”.</p>\n<p>De este modo, se conciencia al alumnado sobre el uso seguro y responsable de los recursos digitales que se emplearán posteriormente en las distintas actividades de la Situación de Aprendizaje.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\">\n<div class=\"figcaption header\"><strong>Tarea 2.3</strong></div>\n<img src=\"{{context_path}}/content/resources/Infografía protección de datos_page-0001.jpg\" width=\"500\" height=\"1250\" alt=\"Protección de datos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Elena Ruiz Blanco</span>. <a href=\"https://canva.link/h298sxoa33x7294\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>https://canva.link/h298sxoa33x7294</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyl-qd7h9pvnn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia de actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyl-qd7h9pvnn</odePageId>
+      <odeBlockId>block-1777921964176-qzwk3ensr</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyl-qd7h9pvnn</odePageId>
+          <odeBlockId>block-1777921964176-qzwk3ensr</odeBlockId>
+          <odeIdeviceId>idevice-1777921964171-9nxs0n6ms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;">
+<p class="figcaption header" style="text-align: justify;">A continuación, se presentan las diferentes actividades que componen la Situación de Aprendizaje, organizadas de manera visual en la imagen, que se explicarán detalladamente en los siguientes apartados.</p>
+<div class="figcaption header"><strong></strong><br /></div>
+<div class="figcaption header"><strong>Tarea 7.1</strong></div>
+<img src="{{context_path}}/content/resources/7.1. LINEA TEMPORAL_page-0001.jpg" width="1536" height="1152" alt="Línea temporal de actividades" />
+<figcaption class="figcaption"><span class="author">Elena Ruiz Blanco</span>. <a href="https://canva.link/upvv6smb8sk3puj" class="title" target="_blank" rel="noopener"><em>https://canva.link/upvv6smb8sk3puj</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777921964171-9nxs0n6ms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\">\n<p class=\"figcaption header\" style=\"text-align: justify;\">A continuación, se presentan las diferentes actividades que componen la Situación de Aprendizaje, organizadas de manera visual en la imagen, que se explicarán detalladamente en los siguientes apartados.</p>\n<div class=\"figcaption header\"><strong></strong><br /></div>\n<div class=\"figcaption header\"><strong>Tarea 7.1</strong></div>\n<img src=\"{{context_path}}/content/resources/7.1. LINEA TEMPORAL_page-0001.jpg\" width=\"1536\" height=\"1152\" alt=\"Línea temporal de actividades\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Elena Ruiz Blanco</span>. <a href=\"https://canva.link/upvv6smb8sk3puj\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>https://canva.link/upvv6smb8sk3puj</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oym-47eah8hns</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Actividad motivadora</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad motivadora</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad motivadora</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oym-47eah8hns</odePageId>
+      <odeBlockId>block-1777649330535-tkkd4bvgn</odeBlockId>
+      <blockName>&quot;Un zoológico en casa&quot;</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oym-47eah8hns</odePageId>
+          <odeBlockId>block-1777649330535-tkkd4bvgn</odeBlockId>
+          <odeIdeviceId>idevice-1777649330531-c97r9d4p1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Una sesión">Una sesión</span></dt><dd>45 min.</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd></dd></div></dl><p>Vemos y escuchamos el cuento “<strong>Un zoológico en casa</strong>” de Sergio Andricaín en la Pantalla Digital Interactiva.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;">
+<figcaption class="figcaption header"><strong>"Un zoológico en casa"</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/_Xokr4ha0ig" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=_Xokr4ha0ig" target="_blank" class="author" rel="noopener">"Maestra Nadia" (narración) / Sergio Andricaín (cuento) / Olga Cuéllar (ilustraciones)</a>. <a href="https://www.youtube.com/watch?v=_Xokr4ha0ig" target="_blank" class="title" rel="noopener"><em>Cuento: "Un zoológico en casa"</em></a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En asamblea, comentamos el contenido del cuento y debatimos sobre el mismo respondiendo a preguntas como: “<em>¿Qué animales aparecen?</em>”, “<em>¿Os gustaría tener alguno en casa?</em>” o “<em>¿Creéis que se puede tener estos animales en casa?</em>”. De esta manera, fomentamos la participación y el intercambio de opiniones entre el alumnado.</p>
+<p>Asimismo, esta asamblea inicial nos ayuda a detectar las ideas previas del alumnado, conocer sus experiencias y concepciones sobre los animales y, poco a poco, ir descubriendo juntos la diferencia entre animales salvajes y domésticos. Además, nos permite generar interés y motivación hacia el proyecto que vamos a comenzar.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777649330531-c97r9d4p1","textInfoDurationInput":"45 min.","textInfoDurationTextInput":"Una sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Una sesión\">Una sesión</span></dt><dd>45 min.</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd></dd></div></dl><p>Vemos y escuchamos el cuento “<strong>Un zoológico en casa</strong>” de Sergio Andricaín en la Pantalla Digital Interactiva.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>\"Un zoológico en casa\"</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/_Xokr4ha0ig\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=_Xokr4ha0ig\" target=\"_blank\" class=\"author\" rel=\"noopener\">\"Maestra Nadia\" (narración) / Sergio Andricaín (cuento) / Olga Cuéllar (ilustraciones)</a>. <a href=\"https://www.youtube.com/watch?v=_Xokr4ha0ig\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Cuento: \"Un zoológico en casa\"</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En asamblea, comentamos el contenido del cuento y debatimos sobre el mismo respondiendo a preguntas como: “<em>¿Qué animales aparecen?</em>”, “<em>¿Os gustaría tener alguno en casa?</em>” o “<em>¿Creéis que se puede tener estos animales en casa?</em>”. De esta manera, fomentamos la participación y el intercambio de opiniones entre el alumnado.</p>\n<p>Asimismo, esta asamblea inicial nos ayuda a detectar las ideas previas del alumnado, conocer sus experiencias y concepciones sobre los animales y, poco a poco, ir descubriendo juntos la diferencia entre animales salvajes y domésticos. Además, nos permite generar interés y motivación hacia el proyecto que vamos a comenzar.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyn-xlll76k2g</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Investigación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyn-xlll76k2g</odePageId>
+      <odeBlockId>block-1777924879070-3cfuqkt9i</odeBlockId>
+      <blockName>&quot;Investigando ando&quot;</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyn-xlll76k2g</odePageId>
+          <odeBlockId>block-1777924879070-3cfuqkt9i</odeBlockId>
+          <odeIdeviceId>idevice-1777924879068-rd5qqhc8f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Dos sesiones">Dos sesiones</span></dt><dd>1h 30min.</dd></div><div class="inline"><dt><span title="Grupos pequeños">Grupos pequeños</span></dt><dd></dd></div></dl><p>Dividimos la clase en grupos de aproximadamente 4 alumnos/as, cada uno de ellos recibe una tablet y realiza una búsqueda sencilla de información sobre animales salvajes utilizando el siguiente <strong>Padlet</strong>:</p>
+<p style="text-align: center;"><a href="https://padlet.com/eruibla/aprendiendo-sobre-animales-salvajes-5-anos-41o6g4pi9ohe0hu4" title="">PADLET SOBRE ANIMALES SALVAJES</a></p>
+<p>A continuación, a cada grupo se le asigna un animal diferente para investigar y, con la información obtenida, elabora una ficha visual de su animal (incluyendo fotografías), con <strong>Canva</strong>. En ella recogerán, de forma básica y con ayuda los siguientes aspectos: cómo es, qué come y dónde vive.</p>
+<p>Esta actividad permite que el alumnado se acerque al conocimiento de manera guiada y se conviertan en protagonistas de su propio aprendizaje e investigación.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777924879068-rd5qqhc8f","textInfoDurationInput":"1h 30min.","textInfoDurationTextInput":"Dos sesiones","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grupos pequeños","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Dos sesiones\">Dos sesiones</span></dt><dd>1h 30min.</dd></div><div class=\"inline\"><dt><span title=\"Grupos pequeños\">Grupos pequeños</span></dt><dd></dd></div></dl><p>Dividimos la clase en grupos de aproximadamente 4 alumnos/as, cada uno de ellos recibe una tablet y realiza una búsqueda sencilla de información sobre animales salvajes utilizando el siguiente <strong>Padlet</strong>:</p>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/eruibla/aprendiendo-sobre-animales-salvajes-5-anos-41o6g4pi9ohe0hu4\" title=\"\">PADLET SOBRE ANIMALES SALVAJES</a></p>\n<p>A continuación, a cada grupo se le asigna un animal diferente para investigar y, con la información obtenida, elabora una ficha visual de su animal (incluyendo fotografías), con <strong>Canva</strong>. En ella recogerán, de forma básica y con ayuda los siguientes aspectos: cómo es, qué come y dónde vive.</p>\n<p>Esta actividad permite que el alumnado se acerque al conocimiento de manera guiada y se conviertan en protagonistas de su propio aprendizaje e investigación.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyo-dpaodnjaz</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Clasificación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Clasificación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyo-dpaodnjaz</odePageId>
+      <odeBlockId>block-1777988612726-nyyi2zzgh</odeBlockId>
+      <blockName>&quot;Cada animal a su hogar&quot;</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyo-dpaodnjaz</odePageId>
+          <odeBlockId>block-1777988612726-nyyi2zzgh</odeBlockId>
+          <odeIdeviceId>idevice-1777988612724-gwc5xeug5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Una sesión">Una sesión</span></dt><dd>45 min.</dd></div><div class="inline"><dt><span title="3 grupos">3 grupos</span></dt><dd></dd></div></dl><p>El alumnado participa en un juego interactivo elaborado en <strong>Genially </strong>por Lydia Fradejas, en el que arrastra cada animal hasta el hábitat que le corresponde; selva, desierto y mar. La actividad se realiza en tres grupos de aproximadamente 8 niños/as, saliendo a la pizarra digital de manera que todos puedan intervenir y tomar decisiones de forma conjunta.</p>
+<p style="text-align: center;"><a href="clasificacion.html" target="_blank" rel="noopener" title="">GENIALLY "CADA ANIMAL A SU HÁBITAT"</a></p>
+<p>A través de esta propuesta, se refuerza la comprensión de los distintos hábitats y se favorece un aprendizaje cooperativo, lúdico y motivador. Además, el trabajo en grupo permite que el alumnado dialogue, comparta ideas y llegue a acuerdos, implicándose activamente en la actividad.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777988612724-gwc5xeug5","textInfoDurationInput":"45 min.","textInfoDurationTextInput":"Una sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"3 grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Una sesión\">Una sesión</span></dt><dd>45 min.</dd></div><div class=\"inline\"><dt><span title=\"3 grupos\">3 grupos</span></dt><dd></dd></div></dl><p>El alumnado participa en un juego interactivo elaborado en <strong>Genially </strong>por Lydia Fradejas, en el que arrastra cada animal hasta el hábitat que le corresponde; selva, desierto y mar. La actividad se realiza en tres grupos de aproximadamente 8 niños/as, saliendo a la pizarra digital de manera que todos puedan intervenir y tomar decisiones de forma conjunta.</p>\n<p style=\"text-align: center;\"><a href=\"exe-node:page-mot56oyo-dpaodnjaz\" target=\"_blank\" rel=\"noopener\" title=\"\">GENIALLY \"CADA ANIMAL A SU HÁBITAT\"</a></p>\n<p>A través de esta propuesta, se refuerza la comprensión de los distintos hábitats y se favorece un aprendizaje cooperativo, lúdico y motivador. Además, el trabajo en grupo permite que el alumnado dialogue, comparta ideas y llegue a acuerdos, implicándose activamente en la actividad.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyp-mjx9814al</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Creación de contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyp-mjx9814al</odePageId>
+      <odeBlockId>block-1777989391232-k9uqa4blp</odeBlockId>
+      <blockName>&quot;¡A crear!&quot;</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyp-mjx9814al</odePageId>
+          <odeBlockId>block-1777989391232-k9uqa4blp</odeBlockId>
+          <odeIdeviceId>idevice-1777989391231-86xx3vhnt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Dos sesiones">Dos sesiones</span></dt><dd>1h 30min.</dd></div><div class="inline"><dt><span title="Grupos pequeños">Grupos pequeños</span></dt><dd></dd></div></dl><p>Cada grupo elige un animal y elabora su propio contenido de forma cooperativa. Para ello, cada grupo recibe una tablet y se reparten roles sencillos, de manera que cada alumno/a tiene una tarea concreta (dibujar, escribir, hacer la foto o participar en el audio), favoreciendo así la implicación de todos.</p>
+<p>En primer lugar, realizan un dibujo del animal y escriben su nombre con ayuda del docente. A continuación, utilizan la tablet para tomar una fotografía del dibujo y grabar un breve audio en el que el alumnado aporta información sencilla sobre el animal (cómo es, qué come y dónde vive).</p>
+<p>Esta actividad combina el trabajo manipulativo y digital, permitiendo que el alumnado exprese lo aprendido y se implique activamente en la creación de un contenido que formará parte del producto final.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777989391231-86xx3vhnt","textInfoDurationInput":"1h 30min.","textInfoDurationTextInput":"Dos sesiones","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grupos pequeños","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Dos sesiones\">Dos sesiones</span></dt><dd>1h 30min.</dd></div><div class=\"inline\"><dt><span title=\"Grupos pequeños\">Grupos pequeños</span></dt><dd></dd></div></dl><p>Cada grupo elige un animal y elabora su propio contenido de forma cooperativa. Para ello, cada grupo recibe una tablet y se reparten roles sencillos, de manera que cada alumno/a tiene una tarea concreta (dibujar, escribir, hacer la foto o participar en el audio), favoreciendo así la implicación de todos.</p>\n<p>En primer lugar, realizan un dibujo del animal y escriben su nombre con ayuda del docente. A continuación, utilizan la tablet para tomar una fotografía del dibujo y grabar un breve audio en el que el alumnado aporta información sencilla sobre el animal (cómo es, qué come y dónde vive).</p>\n<p>Esta actividad combina el trabajo manipulativo y digital, permitiendo que el alumnado exprese lo aprendido y se implique activamente en la creación de un contenido que formará parte del producto final.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyp-m80grxcg6</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyp-m80grxcg6</odePageId>
+      <odeBlockId>block-1777989811083-v6hkdl88n</odeBlockId>
+      <blockName>&quot;Nuestro zoo digital&quot;</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyp-m80grxcg6</odePageId>
+          <odeBlockId>block-1777989811083-v6hkdl88n</odeBlockId>
+          <odeIdeviceId>idevice-1777989811079-cu7rmyxnh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Dos sesiones">Dos sesiones</span></dt><dd>1h 30 min.</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd></dd></div></dl><p>El alumnado participa en la creación de un mural digital colaborativo mediante <strong>Padlet</strong>, donde se recogen los trabajos realizados por cada grupo. Se suben las imágenes de los dibujos y los audios grabados previamente, dando forma a un “zoo digital” que reúne toda la información trabajada sobre los animales salvajes.</p>
+<p>La actividad se realiza en gran grupo con la guía del docente, que se encarga de gestionar la subida de los contenidos elaborados por los niños y niñas. Cada grupo colabora en este proceso, revisando su trabajo, siguiendo indicaciones sencillas y asegurándose de que su animal queda correctamente representado en el mural.</p>
+<p>Mientras se lleva a cabo la subida, el resto del alumnado realiza actividades paralelas sencillas, como colorear animales o jugar con tarjetas, evitando tiempos de espera y manteniendo la atención. Esta actividad permite cerrar el proceso de creación del producto final y dar sentido al trabajo realizado de forma conjunta.</p>
+<figure class="exe-figure position-center" style="width: 1341px;">
+<div class="figcaption header"><strong>Tarea 4.1</strong></div>
+<img src="{{context_path}}/content/resources/Tarea 4.1..png" title="Tarea 4.1" width="1341" height="573" alt="Participación en el foro: herramientas para el producto final" />
+<figcaption class="figcaption"><span class="author">Elena Ruiz Blanco</span>. <span class="title"><em>Participación en el foro: herramientas para el producto final</em></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777989811079-cu7rmyxnh","textInfoDurationInput":"1h 30 min.","textInfoDurationTextInput":"Dos sesiones","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Dos sesiones\">Dos sesiones</span></dt><dd>1h 30 min.</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd></dd></div></dl><p>El alumnado participa en la creación de un mural digital colaborativo mediante <strong>Padlet</strong>, donde se recogen los trabajos realizados por cada grupo. Se suben las imágenes de los dibujos y los audios grabados previamente, dando forma a un “zoo digital” que reúne toda la información trabajada sobre los animales salvajes.</p>\n<p>La actividad se realiza en gran grupo con la guía del docente, que se encarga de gestionar la subida de los contenidos elaborados por los niños y niñas. Cada grupo colabora en este proceso, revisando su trabajo, siguiendo indicaciones sencillas y asegurándose de que su animal queda correctamente representado en el mural.</p>\n<p>Mientras se lleva a cabo la subida, el resto del alumnado realiza actividades paralelas sencillas, como colorear animales o jugar con tarjetas, evitando tiempos de espera y manteniendo la atención. Esta actividad permite cerrar el proceso de creación del producto final y dar sentido al trabajo realizado de forma conjunta.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1341px;\">\n<div class=\"figcaption header\"><strong>Tarea 4.1</strong></div>\n<img src=\"{{context_path}}/content/resources/Tarea 4.1..png\" title=\"Tarea 4.1\" width=\"1341\" height=\"573\" alt=\"Participación en el foro: herramientas para el producto final\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Elena Ruiz Blanco</span>. <span class=\"title\"><em>Participación en el foro: herramientas para el producto final</em></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyr-ml5ujqsic</odePageId>
+  <odeParentPageId>page-mot56oyl-qd7h9pvnn</odeParentPageId>
+  <pageName>Difusión</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Difusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Difusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyr-ml5ujqsic</odePageId>
+      <odeBlockId>block-1777990716343-rgtse5t3q</odeBlockId>
+      <blockName>&quot;Presentamos nuestro zoo&quot;</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyr-ml5ujqsic</odePageId>
+          <odeBlockId>block-1777990716343-rgtse5t3q</odeBlockId>
+          <odeIdeviceId>idevice-1777990716340-d9255hbhy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Una sesión">Una sesión</span></dt><dd>45 min.</dd></div><div class="inline"><dt><span title="Grupos pequeños">Grupos pequeños</span></dt><dd></dd></div></dl><p>En esta sesión de cierre, se presenta el Padlet en la pizarra digital, donde se recoge el trabajo realizado por toda la clase. Cada grupo explica su animal al resto de compañeros de forma sencilla y apoyándose en la imagen y el audio previamente elaborado.</p>
+<p>Tras las exposiciones, se plantean preguntas para favorecer la participación y la comprensión, así como un breve momento de reflexión oral sobre lo aprendido. Finalmente, se comparte el enlace del Padlet con las familias, permitiéndoles conocer el trabajo realizado y dando mayor sentido al producto final creado de forma colaborativa.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777990716340-d9255hbhy","textInfoDurationInput":"45 min.","textInfoDurationTextInput":"Una sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grupos pequeños","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Una sesión\">Una sesión</span></dt><dd>45 min.</dd></div><div class=\"inline\"><dt><span title=\"Grupos pequeños\">Grupos pequeños</span></dt><dd></dd></div></dl><p>En esta sesión de cierre, se presenta el Padlet en la pizarra digital, donde se recoge el trabajo realizado por toda la clase. Cada grupo explica su animal al resto de compañeros de forma sencilla y apoyándose en la imagen y el audio previamente elaborado.</p>\n<p>Tras las exposiciones, se plantean preguntas para favorecer la participación y la comprensión, así como un breve momento de reflexión oral sobre lo aprendido. Finalmente, se comparte el enlace del Padlet con las familias, permitiéndoles conocer el trabajo realizado y dando mayor sentido al producto final creado de forma colaborativa.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oys-a16pavwtw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oys-a16pavwtw</odePageId>
+      <odeBlockId>block-1777991304687-vxa17igkk</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oys-a16pavwtw</odePageId>
+          <odeBlockId>block-1777991304687-vxa17igkk</odeBlockId>
+          <odeIdeviceId>idevice-1777991304684-e3pqja2dw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar esta Situación de Aprendizaje, se utilizarán diferentes instrumentos con el objetivo de recoger información variada del proceso de aprendizaje del alumnado. Se combinarán instrumentos de observación directa, producciones del alumnado y herramientas digitales, favoreciendo así una evaluación más completa y ajustada a la realidad del aula.</p>
+<p><strong>INSTRUMENTO 1. Rúbrica de observación directa (docente)</strong></p>
+<p>Este instrumento se utiliza durante el desarrollo de las actividades 2, 3 y 4 (investigación, clasificación y creación del contenido). Consiste en una rúbrica sencilla que se incluye en el diario de clase, para valorar el trabajo y participación en el grupo, la expresión oral, la comprensión de los contenidos y el uso de las herramientas digitales por parte del alumnado.</p>
+<p><img src="{{context_path}}/content/resources/8.1.png" width="557" height="333" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>INSTRUMENTO 2. Diana de autoevaluación (alumnado)</strong></p>
+<p>La diana de autoevaluación se utiliza como actividad de cierre para favorecer una reflexión sencilla por parte del alumnado sobre su participación, lo aprendido, el trabajo en grupo y su grado de satisfacción con la situación de aprendizaje. Se trata de una herramienta visual, adecuada a estas edades, que facilita la expresión de su percepción de forma accesible.</p>
+<p>Para garantizar resultados más ajustados, se acompaña de preguntas breves y adaptadas que ayudan a comprender mejor lo que se les pide, fomentando una reflexión guiada sobre su propia implicación. Este instrumento no solo aporta información sobre el aprendizaje, sino también sobre la motivación y la experiencia del alumnado, lo que permite orientar y mejorar futuras propuestas educativas.</p>
+<figure class="exe-figure position-center" style="width: 536px;"><img src="{{context_path}}/content/resources/DIANA DE AUTOEVALUACIÓN.jpg" width="536" height="379" alt="Diana de autoevaluación" />
+<figcaption class="figcaption"><span class="author">Elena Ruiz Blanco</span>. <a href="https://canva.link/2qb9jkslyks73zt" class="title" target="_blank" rel="noopener"><em>Diana de autoevaluación</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>INSTRUMENTO 3. Lista de cotejo del producto final (Padlet)</strong></p>
+<p>La lista de cotejo se utiliza para valorar el producto final de la situación de aprendizaje, es decir, el mural digital elaborado en Padlet. Este instrumento permite comprobar de forma sencilla si el alumnado identifica el animal trabajado, reconoce sus características básicas y participa en la creación del contenido junto a su grupo.</p>
+<p>La recogida de información se realiza durante la elaboración del Padlet y en el momento de cierre del proceso, teniendo en cuenta tanto el resultado final como la implicación del alumnado en las diferentes tareas. Para ello, se emplea una tabla con indicadores claros y respuestas simples (siempre, a veces, nunca) que facilitan el registro de la información de manera rápida y objetiva.</p>
+<p>Los criterios a evaluar son:</p>
+<ul>
+<li>Reconoce y nombra el animal</li>
+<li>Explica de forma sencilla sus características</li>
+<li>Participa en la elaboración del dibujo</li>
+<li>Participa en la grabación del audio</li>
+<li>Se expresa de manera comprensible y emplea el vocabulario adecuado<br /></li>
+</ul>
+<p><strong>Enlace a la tarea 8.1:</strong> <a href="https://docs.google.com/document/d/1VZ2nLfRrg-emDy7PGIIhkEGsWvQ56AlPneBaBzswRok/edit?usp=sharing">https://docs.google.com/document/d/1VZ2nLfRrg-emDy7PGIIhkEGsWvQ56AlPneBaBzswRok/edit?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777991304684-e3pqja2dw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar esta Situación de Aprendizaje, se utilizarán diferentes instrumentos con el objetivo de recoger información variada del proceso de aprendizaje del alumnado. Se combinarán instrumentos de observación directa, producciones del alumnado y herramientas digitales, favoreciendo así una evaluación más completa y ajustada a la realidad del aula.</p>\n<p><strong>INSTRUMENTO 1. Rúbrica de observación directa (docente)</strong></p>\n<p>Este instrumento se utiliza durante el desarrollo de las actividades 2, 3 y 4 (investigación, clasificación y creación del contenido). Consiste en una rúbrica sencilla que se incluye en el diario de clase, para valorar el trabajo y participación en el grupo, la expresión oral, la comprensión de los contenidos y el uso de las herramientas digitales por parte del alumnado.</p>\n<p><img src=\"{{context_path}}/content/resources/8.1.png\" width=\"557\" height=\"333\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>INSTRUMENTO 2. Diana de autoevaluación (alumnado)</strong></p>\n<p>La diana de autoevaluación se utiliza como actividad de cierre para favorecer una reflexión sencilla por parte del alumnado sobre su participación, lo aprendido, el trabajo en grupo y su grado de satisfacción con la situación de aprendizaje. Se trata de una herramienta visual, adecuada a estas edades, que facilita la expresión de su percepción de forma accesible.</p>\n<p>Para garantizar resultados más ajustados, se acompaña de preguntas breves y adaptadas que ayudan a comprender mejor lo que se les pide, fomentando una reflexión guiada sobre su propia implicación. Este instrumento no solo aporta información sobre el aprendizaje, sino también sobre la motivación y la experiencia del alumnado, lo que permite orientar y mejorar futuras propuestas educativas.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 536px;\"><img src=\"{{context_path}}/content/resources/DIANA DE AUTOEVALUACIÓN.jpg\" width=\"536\" height=\"379\" alt=\"Diana de autoevaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Elena Ruiz Blanco</span>. <a href=\"https://canva.link/2qb9jkslyks73zt\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Diana de autoevaluación</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>INSTRUMENTO 3. Lista de cotejo del producto final (Padlet)</strong></p>\n<p>La lista de cotejo se utiliza para valorar el producto final de la situación de aprendizaje, es decir, el mural digital elaborado en Padlet. Este instrumento permite comprobar de forma sencilla si el alumnado identifica el animal trabajado, reconoce sus características básicas y participa en la creación del contenido junto a su grupo.</p>\n<p>La recogida de información se realiza durante la elaboración del Padlet y en el momento de cierre del proceso, teniendo en cuenta tanto el resultado final como la implicación del alumnado en las diferentes tareas. Para ello, se emplea una tabla con indicadores claros y respuestas simples (siempre, a veces, nunca) que facilitan el registro de la información de manera rápida y objetiva.</p>\n<p>Los criterios a evaluar son:</p>\n<ul>\n<li>Reconoce y nombra el animal</li>\n<li>Explica de forma sencilla sus características</li>\n<li>Participa en la elaboración del dibujo</li>\n<li>Participa en la grabación del audio</li>\n<li>Se expresa de manera comprensible y emplea el vocabulario adecuado<br /></li>\n</ul>\n<p><strong>Enlace a la tarea 8.1:</strong> <a href=\"https://docs.google.com/document/d/1VZ2nLfRrg-emDy7PGIIhkEGsWvQ56AlPneBaBzswRok/edit?usp=sharing\">https://docs.google.com/document/d/1VZ2nLfRrg-emDy7PGIIhkEGsWvQ56AlPneBaBzswRok/edit?usp=sharing</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyt-ubhbpmxot</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyt-ubhbpmxot</odePageId>
+      <odeBlockId>block-1777993264213-b89aks2za</odeBlockId>
+      <blockName>Tareas y sus criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyt-ubhbpmxot</odePageId>
+          <odeBlockId>block-1777993264213-b89aks2za</odeBlockId>
+          <odeIdeviceId>idevice-1777993264212-i6rda4xjg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la <strong>guía didáctica</strong> para el profesorado, donde se encuentran las tareas relacionadas con los criterios de evaluación, agrupamientos, tiempo aproximado y las herramientas que se sugerirán al alumnado.</p>
+<p><a href="https://docs.google.com/document/d/1KcF2V9OWMpdNigeVPidKmhULkB5D5f2KeDir6gOrUyI/edit?usp=sharing" title="">¡Pincha aquí!</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777993264212-i6rda4xjg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la <strong>guía didáctica</strong> para el profesorado, donde se encuentran las tareas relacionadas con los criterios de evaluación, agrupamientos, tiempo aproximado y las herramientas que se sugerirán al alumnado.</p>\n<p><a href=\"https://docs.google.com/document/d/1KcF2V9OWMpdNigeVPidKmhULkB5D5f2KeDir6gOrUyI/edit?usp=sharing\" title=\"\">¡Pincha aquí!</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyu-km9psrled</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyu-km9psrled</odePageId>
+      <odeBlockId>block-1777994517437-sbclif0p4</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyu-km9psrled</odePageId>
+          <odeBlockId>block-1777994517437-sbclif0p4</odeBlockId>
+          <odeIdeviceId>idevice-1777994517430-7s57b9nxk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta un enlace a un <strong>Symbaloo </strong>destinado al profesorado (tarea 5.1), en el que se recogen diferentes recursos digitales que pueden resultar de utilidad tanto para el desarrollo de esta situación de aprendizaje como para el trabajo diario en el aula. Se trata de una selección de herramientas y materiales organizados de forma visual, con el objetivo de facilitar su acceso y uso en la práctica docente.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABEjnb4AAA41_l102Sg==" title="">¡Pincha aquí!</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994517430-7s57b9nxk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta un enlace a un <strong>Symbaloo </strong>destinado al profesorado (tarea 5.1), en el que se recogen diferentes recursos digitales que pueden resultar de utilidad tanto para el desarrollo de esta situación de aprendizaje como para el trabajo diario en el aula. Se trata de una selección de herramientas y materiales organizados de forma visual, con el objetivo de facilitar su acceso y uso en la práctica docente.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABEjnb4AAA41_l102Sg==\" title=\"\">¡Pincha aquí!</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot56oyu-xyra6cd9u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot56oyu-xyra6cd9u</odePageId>
+      <odeBlockId>block-1777995623999-9ns4tlu4q</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot56oyu-xyra6cd9u</odePageId>
+          <odeBlockId>block-1777995623999-9ns4tlu4q</odeBlockId>
+          <odeIdeviceId>idevice-1777995623999-97wjgbf70</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>DESCARGAR EL ARCHIVO FUENTE</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EL MARAVILLOSO MUNDO ANIMAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Aprendemos sobre los animales salvajes en el aula de 5 años</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Elena Ruiz Blanco</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
